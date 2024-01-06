@@ -302,7 +302,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://www.itmaster.com.ar/img/logo_white.svg",
+    img: "https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/313413081_499406172229361_5737860828285948291_n.png?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=phK1ZYHmrCsAX-_4P0p&_nc_ht=scontent.fsla4-1.fna&oh=00_AfD2t-H8nOcXw3C84EJmSct0eNo77TraBfM-gRWb3ASHmA&oe=659E46C3",
     school: "ITMaster Academy",
     date: "Jul 2023 - Dic 2023",
     desc: "Aptitudes: Cruds · NPM · JavaScript · Svelte · Babel.js · GitHub · Node.js · Angular · HTML5 · Bootstrap · Express.js · Firebase · Hojas de estilos en cascada (CSS) · Vue.js · React.js",
@@ -310,7 +310,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://fundacioncarlosslim.org/wp-content/themes/fundacion2019/images/logo_fundacion3.png",
+    img: "https://www.carso.com.mx/wp-content/uploads/2020/01/Logotipo-FCS-Bold-03-e1579824147418-300x85.png",
     school: "Fundación Carlos Slim",
     date: "Jun 2023 - Oct 2023",
     desc: "Aptitudes: Bases de datos · SQL · Optimización para motores de búsqueda (SEO) · JavaScript · PHP · Diseño web · Responsive · Logica de programacion · Experiencia de usuario · HTML5 · Herramientas de diseño · Hojas de estilos en cascada (CSS) · Programación orientada a objetos (POO)",
