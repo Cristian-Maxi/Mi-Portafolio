@@ -302,7 +302,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/313413081_499406172229361_5737860828285948291_n.png?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeEseeWFKAQWBXy_49ocOBp_VTOex9quzWxVM57H2q7NbJ22UYq4QvAjRZB9nn4FPxo&_nc_ohc=aEYVyJyVgOUAX8xDG0m&_nc_ht=scontent.fsla4-1.fna&oh=00_AfDhD59gD5eLMJfUKZ34H4xFxr3jv1lj9zi0nIRbnqIQ-g&oe=65985803",
+    img: "https://www.itmaster.com.ar/img/logo_white.svg",
     school: "ITMaster Academy",
     date: "Jul 2023 - Dic 2023",
     desc: "Aptitudes: Cruds · NPM · JavaScript · Svelte · Babel.js · GitHub · Node.js · Angular · HTML5 · Bootstrap · Express.js · Firebase · Hojas de estilos en cascada (CSS) · Vue.js · React.js",
@@ -310,7 +310,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/311127594_490569809776627_4429573829477839894_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeE6CvG0wnHw4nOLQvWSYaBWSK7Jo_B69xBIrsmj8Hr3EPbJV-25P8XaK3mM06j248A&_nc_ohc=86y8GyCzGXYAX-xQsQH&_nc_ht=scontent.fsla4-1.fna&oh=00_AfBIrm2OfRTab0_vBbmQgPTh-ohIVgUCPWTE7xiVh5JmWA&oe=65984B0D",
+    img: "https://fundacioncarlosslim.org/wp-content/themes/fundacion2019/images/logo_fundacion3.png",
     school: "Fundación Carlos Slim",
     date: "Jun 2023 - Oct 2023",
     desc: "Aptitudes: Bases de datos · SQL · Optimización para motores de búsqueda (SEO) · JavaScript · PHP · Diseño web · Responsive · Logica de programacion · Experiencia de usuario · HTML5 · Herramientas de diseño · Hojas de estilos en cascada (CSS) · Programación orientada a objetos (POO)",
