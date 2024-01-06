@@ -310,7 +310,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://www.carso.com.mx/wp-content/uploads/2020/01/Logotipo-FCS-Bold-03-e1579824147418-300x85.png",
+    img: "https://pbs.twimg.com/profile_images/943582048433848320/w5sartQu_400x400.jpg",
     school: "Fundación Carlos Slim",
     date: "Jun 2023 - Oct 2023",
     desc: "Aptitudes: Bases de datos · SQL · Optimización para motores de búsqueda (SEO) · JavaScript · PHP · Diseño web · Responsive · Logica de programacion · Experiencia de usuario · HTML5 · Herramientas de diseño · Hojas de estilos en cascada (CSS) · Programación orientada a objetos (POO)",
