@@ -302,7 +302,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/313413081_499406172229361_5737860828285948291_n.png?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=phK1ZYHmrCsAX-_4P0p&_nc_ht=scontent.fsla4-1.fna&oh=00_AfD2t-H8nOcXw3C84EJmSct0eNo77TraBfM-gRWb3ASHmA&oe=659E46C3",
+    img: "https://media.licdn.com/dms/image/C4D0BAQGw7rvFolzzeQ/company-logo_200_200/0/1631352709208?e=1713398400&v=beta&t=eU6PkurrDFsu39DlfkqwYIalURehH2KG1Nhq9G_wlRY",
     school: "ITMaster Academy",
     date: "Jul 2023 - Dic 2023",
     desc: "Aptitudes: Cruds · NPM · JavaScript · Svelte · Babel.js · GitHub · Node.js · Angular · HTML5 · Bootstrap · Express.js · Firebase · Hojas de estilos en cascada (CSS) · Vue.js · React.js",
