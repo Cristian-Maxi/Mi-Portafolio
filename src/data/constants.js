@@ -110,7 +110,7 @@ export const skills = [
       {
         name: "Power Bi",
         image:
-          "https://erp.mgt.ncu.edu.tw/wp-content/uploads/2022/06/Power-BI-Logo.png",
+          "https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-500x281.png",
       },
       {
         name: "GitHub",
