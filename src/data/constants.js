@@ -550,25 +550,6 @@ export const projects = [
   },
   {
     id: 6,
-    title: "Reloj Digital",
-    date: "Ago 2023 - Ago 2023",
-    description:
-      "Un pequeño reloj digital echo con HTML5, CSS, Javascript y Bootsrap",
-    image:
-      "https://media.licdn.com/dms/image/D4D2DAQF3_u0iUAu_XA/profile-treasury-image-shrink_800_800/0/1694247389469?e=1706637600&v=beta&t=Sr0sDcH7zQ_hfJ4SISEw0XJzyopUSzTViZdBpvlkN0Y",
-    tags: ["HTML5", "CSS", "Javascript", "Bootstap"],
-    category: "otros",
-    github: "https://github.com/Cristian-Maxi/Reloj-Digital",
-    webapp: "https://cristian-maxi.github.io/Reloj-Digital/",
-    member: [
-      {
-        name: "Cristian Gomez",
-        img: "https://avatars.githubusercontent.com/u/134754887?v=4",
-        linkedin: "https://www.linkedin.com/in/cristian-gomez-montenegro/",
-        github: "https://github.com/Cristian-Maxi",
-      },
-  {
-    id: 7,
     title: "Encriptador",
     date: "Ene 2024 - Ene 2024",
     description:
@@ -588,6 +569,28 @@ export const projects = [
       },
     ],
   },
+  {
+    id: 7,
+    title: "Reloj Digital",
+    date: "Ago 2023 - Ago 2023",
+    description:
+      "Un pequeño reloj digital echo con HTML5, CSS, Javascript y Bootsrap",
+    image:
+      "https://media.licdn.com/dms/image/D4D2DAQF3_u0iUAu_XA/profile-treasury-image-shrink_800_800/0/1694247389469?e=1704740400&v=beta&t=WGgaZqEMJtwP4k6MQRM_yP-BDul-ZV-DIxLgSYgxWts",
+    tags: ["HTML5", "CSS", "Javascript", "Bootstap"],
+    category: "otros",
+    github: "https://github.com/Cristian-Maxi/Reloj-Digital",
+    webapp: "https://cristian-maxi.github.io/Reloj-Digital/",
+    member: [
+      {
+        name: "Cristian Gomez",
+        img: "https://avatars.githubusercontent.com/u/134754887?v=4",
+        linkedin: "https://www.linkedin.com/in/cristian-gomez-montenegro/",
+        github: "https://github.com/Cristian-Maxi",
+      },
+    ],
+  },
+  
 ];
 
 export const TimeLineData = [
