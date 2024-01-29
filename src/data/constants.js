@@ -567,6 +567,25 @@ export const projects = [
         linkedin: "https://www.linkedin.com/in/cristian-gomez-montenegro/",
         github: "https://github.com/Cristian-Maxi",
       },
+  {
+    id: 7,
+    title: "Encriptador",
+    date: "Ene 2024 - Ene 2024",
+    description:
+      "Un encriptador de texto realizado durante el cursado de Oracle-Alura para el Desafio número 1",
+    image:
+      "https://media.licdn.com/dms/image/D4D2DAQF1W1QYKE_s5w/profile-treasury-image-shrink_1920_1920/0/1706320568169?e=1707141600&v=beta&t=1pclCZQqRuDk5iJ27zP5r1q0hHorqX_IvQRMITNRCOk",
+    tags: ["HTML5", "CSS", "Javascript"],
+    category: "otros",
+    github: "https://github.com/Cristian-Maxi/Encriptador",
+    webapp: "https://cristian-maxi.github.io/Encriptador/",
+    member: [
+      {
+        name: "Cristian Gomez",
+        img: "https://avatars.githubusercontent.com/u/134754887?v=4",
+        linkedin: "https://www.linkedin.com/in/cristian-gomez-montenegro/",
+        github: "https://github.com/Cristian-Maxi",
+      },
     ],
   },
 ];
