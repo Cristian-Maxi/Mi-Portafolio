@@ -576,7 +576,7 @@ export const projects = [
     description:
       "Un pequeño reloj digital echo con HTML5, CSS, Javascript y Bootsrap",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQF3_u0iUAu_XA/profile-treasury-image-shrink_800_800/0/1694247389469?e=1704740400&v=beta&t=WGgaZqEMJtwP4k6MQRM_yP-BDul-ZV-DIxLgSYgxWts",
+      "https://media.licdn.com/dms/image/D4D2DAQF3_u0iUAu_XA/profile-treasury-image-shrink_800_800/0/1694247389469?e=1707141600&v=beta&t=T5NhDJMF1rSJrbCGE33ghFTh-v-a-98hDI7j9qj6NQ0",
     tags: ["HTML5", "CSS", "Javascript", "Bootstap"],
     category: "otros",
     github: "https://github.com/Cristian-Maxi/Reloj-Digital",
