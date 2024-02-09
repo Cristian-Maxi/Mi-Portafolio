@@ -145,7 +145,7 @@ export const skills = [
       {
         name: "Vercel",
         image:
-          "https://karmanivero.us/assets/images/logo-vercel.png",
+          "https://www.iconbolt.com/iconsets/ionicons-regular/logo-vercel.svg",
       },
     ],
   },
