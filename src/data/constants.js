@@ -492,7 +492,7 @@ export const projects = [
     description:
       "Aplicacón para llevar una lista de presupuestos y hacer los calculos correspondientes a los Ingresos y Egresos que se llevan a cabo. Fue echa con HTML5, CSS, Javascript y Boostrap.",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQHQzLvWBRRuVw/profile-treasury-image-shrink_800_800/0/1694277724569?e=1712196000&v=beta&t=CrOfEIY5Liw3efrXE31OyepQWgSXtiBZjX8XYgzOF24"",
+      "https://media.licdn.com/dms/image/D4D2DAQHQzLvWBRRuVw/profile-treasury-image-shrink_800_800/0/1694277724569?e=1712196000&v=beta&t=CrOfEIY5Liw3efrXE31OyepQWgSXtiBZjX8XYgzOF24",
     tags: ["HTML5", "CSS", "Javascript", "Bootstap", "POO"],
     category: "appweb",
     github: "https://github.com/Cristian-Maxi/Aplicacion-Web-Presupuesto",
@@ -511,7 +511,7 @@ export const projects = [
     title: "Control de Clientes",
     date: "Nov 2023 - Dic 2023",
     description:
-      "Aplicación para llevar un control de los clientes y las compras que estos llevaron a cabo, asi tambien como el total de dinero que se recaudo con estas compras. Esta fue echa con HTML5, CSS, Javascript y Boostrap en la parte front end y Java, JDBC y MySQL para el Back End",
+      "Aplicación para llevar un control de los clientes y las compras que estos llevaron a cabo, asi tambien como el total de dinero que se recaudo con estas compras. Esta fue echa con HTML5, CSS, Javascript y Boostrap en la parte front end y Java, JDBC y MySQL para el Back End.",
     image:
       "https://media.licdn.com/dms/image/D4D2DAQHEMEUuP71czg/profile-treasury-image-shrink_1280_1280/0/1699931215804?e=1712196000&v=beta&t=p6iPxFhN5UwPTSNr3RiLj2MdSdQ84fwhOwRn036P2v0",
     tags: ["HTML5", "CSS", "Javascript", "Bootstap", "Java", "JDBC", "MySQL"],
