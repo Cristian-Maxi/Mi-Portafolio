@@ -490,9 +490,9 @@ export const projects = [
     title: "Aplicación de Presupuestos",
     date: "Set 2023 - Set 2023",
     description:
-      "https://media.licdn.com/dms/image/D4D2DAQHQzLvWBRRuVw/profile-treasury-image-shrink_800_800/0/1694277724569?e=1712196000&v=beta&t=CrOfEIY5Liw3efrXE31OyepQWgSXtiBZjX8XYgzOF24",
+      "Aplicacón para llevar una lista de presupuestos y hacer los calculos correspondientes a los Ingresos y Egresos que se llevan a cabo. Fue echa con HTML5, CSS, Javascript y Boostrap.",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQHQzLvWBRRuVw/profile-treasury-image-shrink_800_800/0/1694277724569?e=1711576800&v=beta&t=hm1O9cc9sPxmn6oOV84DYssQSFNHPRhmMKzGVBfiuIk",
+      "https://media.licdn.com/dms/image/D4D2DAQHQzLvWBRRuVw/profile-treasury-image-shrink_800_800/0/1694277724569?e=1712196000&v=beta&t=CrOfEIY5Liw3efrXE31OyepQWgSXtiBZjX8XYgzOF24"",
     tags: ["HTML5", "CSS", "Javascript", "Bootstap", "POO"],
     category: "appweb",
     github: "https://github.com/Cristian-Maxi/Aplicacion-Web-Presupuesto",
