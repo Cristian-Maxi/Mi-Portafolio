@@ -358,7 +358,7 @@ export const projects = [
     description:
       "Pagina Full Stack usando React para la parte Front End y Python, Django y MySQL para la parte Back End. El usuario podrá crear Post en la sección Blog de acuerdo a un sistema de autenticación el cual definirá su rol ya sea como editor o como un adminstrador.",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQFV-qCgOfq4Zg/profile-treasury-image-shrink_1280_1280/0/1704047844352?e=1711576800&v=beta&t=NZsSw4hEYfCU7xR1k4KCmnk12qL9Di_Q5Ja9uqE-jzQ",
+      "https://media.licdn.com/dms/image/D4D2DAQFV-qCgOfq4Zg/profile-treasury-image-shrink_1280_1280/0/1704047844352?e=1712196000&v=beta&t=PBau_AhtS_527gaAma29lLIodfE-VwEPMU8bbhbikV0",
     tags: [
       "Bootstrap",
       "React.js",
@@ -392,7 +392,7 @@ export const projects = [
     description:
       "Página echa como proyecto final del cursado de Codo a Codo. El Front End fue echo con HTML, CSS, Javascript y Bootstrap, y la parte Back End fue echa usando java, hibernate y MySQL.",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQH_w-8Z9A742A/profile-treasury-image-shrink_800_800/0/1695070505840?e=1711576800&v=beta&t=ulLgsW1MbwZGxbXtQnFouHBC4Blz3wN6KK1pJdcF2n4",
+      "https://media.licdn.com/dms/image/D4D2DAQH_w-8Z9A742A/profile-treasury-image-shrink_800_800/0/1695070505840?e=1712196000&v=beta&t=yvtbw_nM8Pt9WjGX-zBoxtTtiomHLgs9gClc34W8PXU",
     tags: ["HTML5", "CSS", "Javascript", "Bootstrap", "MySQL", "Java", "JDBC", "Hibernate"],
     category: "appweb",
     github: "https://github.com/Cristian-Maxi/Proyecto-Final-Java",
@@ -413,7 +413,7 @@ export const projects = [
     description:
       "Página echa con HTML, CSS, Javascript y Bootstrap, simulando una página dedicada a la venta de una aplicación de trading de criptomnodas.",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQFZakjLHfHDJQ/profile-treasury-image-shrink_1280_1280/0/1704130751532?e=1711576800&v=beta&t=J9BiLTM0oQXOzqr1TmOBEsHr7TinAz7Oeax1JkYbmnc",
+      "https://media.licdn.com/dms/image/D4D2DAQFZakjLHfHDJQ/profile-treasury-image-shrink_1280_1280/0/1704130751532?e=1712196000&v=beta&t=2dIubui3L3NtsnPvv89VR-4C2IimxfzBiCgEpGq4E-k",
     tags: [
       "HTML5",
       "CSS",
@@ -440,7 +440,7 @@ export const projects = [
     description:
       "Página echa como proyecto final del cursado de Argentina Programa 4.0. La parte Front End fue echa Con Next.js y la parte Backend fue echa con Python, Django y MySQL. Consiste en un Login, en donde el usuario podrá ser redirigido para crear una cuenta o ingresar si ya la tiene, a una página donde el usuario puedo usar una app para guardar tareas.",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQEtZOgQRzE_pA/profile-treasury-image-shrink_1280_1280/0/1699910116684?e=1711576800&v=beta&t=F7VR09GWSXF2zc34PdOB-NEPT3bK_YrE4KUUua1LUvc",
+      "https://media.licdn.com/dms/image/D4D2DAQEtZOgQRzE_pA/profile-treasury-image-shrink_1280_1280/0/1699910116684?e=1712196000&v=beta&t=um9MmB9Cac66MmUukJYjOsZmHYDLHW4FuuO22CW8itA",
       tags: [
         "Bootstrap",
         "Next.js",
@@ -471,7 +471,7 @@ export const projects = [
     description:
       "Pequeña aplicación de pronostico de pronostico del tiempo llevada a cabo usando React.js y una Api de pronosticos la cual nos devuelve los pronostico de las 3 horas siguientes.",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQGqWoSWQHl-fQ/profile-treasury-image-shrink_800_800/0/1701313761063?e=1711576800&v=beta&t=gr1lytfZ66B-zpiaQkGOU0BGWnMPJtvCk1DijeYJTQo",
+      "https://media.licdn.com/dms/image/D4D2DAQGqWoSWQHl-fQ/profile-treasury-image-shrink_800_800/0/1701313761063?e=1712196000&v=beta&t=5kOIipPF8MDuwmSZIYwHrwH4huyAbdc8fdWAq4FSw4M",
     tags: ["HTML5","CSS","Javascript","React.js","Bootsrap", "Apis"],
     category: "appweb",
     github: "https://github.com/Cristian-Maxi/app-de-clima-react",
@@ -490,7 +490,7 @@ export const projects = [
     title: "Aplicación de Presupuestos",
     date: "Set 2023 - Set 2023",
     description:
-      "Aplicacón para llevar una lista de presupuestos y hacer los calculos correspondientes a los Ingresos y Egresos que se llevan a cabo. Fue echa con HTML5, CSS, Javascript y Boostrap.",
+      "https://media.licdn.com/dms/image/D4D2DAQHQzLvWBRRuVw/profile-treasury-image-shrink_800_800/0/1694277724569?e=1712196000&v=beta&t=CrOfEIY5Liw3efrXE31OyepQWgSXtiBZjX8XYgzOF24",
     image:
       "https://media.licdn.com/dms/image/D4D2DAQHQzLvWBRRuVw/profile-treasury-image-shrink_800_800/0/1694277724569?e=1711576800&v=beta&t=hm1O9cc9sPxmn6oOV84DYssQSFNHPRhmMKzGVBfiuIk",
     tags: ["HTML5", "CSS", "Javascript", "Bootstap", "POO"],
@@ -513,7 +513,7 @@ export const projects = [
     description:
       "Aplicación para llevar un control de los clientes y las compras que estos llevaron a cabo, asi tambien como el total de dinero que se recaudo con estas compras. Esta fue echa con HTML5, CSS, Javascript y Boostrap en la parte front end y Java, JDBC y MySQL para el Back End",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQHEMEUuP71czg/profile-treasury-image-shrink_1280_1280/0/1699931215804?e=1711576800&v=beta&t=2rmRPRV0F1Af0b-vL2x9XcYzsB2kX509HJuorfs_cLw",
+      "https://media.licdn.com/dms/image/D4D2DAQHEMEUuP71czg/profile-treasury-image-shrink_1280_1280/0/1699931215804?e=1712196000&v=beta&t=p6iPxFhN5UwPTSNr3RiLj2MdSdQ84fwhOwRn036P2v0",
     tags: ["HTML5", "CSS", "Javascript", "Bootstap", "Java", "JDBC", "MySQL"],
     category: "appweb",
     github: "https://github.com/Cristian-Maxi/Java-Control-Clientes",
@@ -534,7 +534,7 @@ export const projects = [
     description:
       "Proyecto Final llevado a cabo para el cursado de Python en CIMNE-IBER, el cual consiste en una aplicación de destinos culinarios. Fue echa usnado Python y Tkinter",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQGNgRfGiZSYhg/profile-treasury-image-shrink_800_800/0/1704133815193?e=1711576800&v=beta&t=_nUaP1UDSfBNWPMxC-bp8HhTqghdsOkhD1XbeGl8j14",
+      "https://media.licdn.com/dms/image/D4D2DAQGNgRfGiZSYhg/profile-treasury-image-shrink_800_800/0/1704133815193?e=1712196000&v=beta&t=fsTz3vT4tU4XngFgrkhRtvH5AGZlAFOuQ3mVNKvy3nQ",
     tags: ["Python", "Tkinter", "POO"],
     category: "otros",
     github: "https://github.com/Cristian-Maxi/Proyecto-Python-Destino-Culinario",
@@ -555,7 +555,7 @@ export const projects = [
     description:
       "Un encriptador de texto realizado durante el cursado de Oracle-Alura para el Desafio número 1",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQF1W1QYKE_s5w/profile-treasury-image-shrink_800_800/0/1706320568169?e=1711576800&v=beta&t=C-0kHgSgAdtM_TeVOwmbtbCnq6OWl2NlJJWJJ83ZV-A",
+      "https://media.licdn.com/dms/image/D4D2DAQF1W1QYKE_s5w/profile-treasury-image-shrink_800_800/0/1706320568169?e=1712196000&v=beta&t=9a59YHtJXQYib1B6ISUNqXJTC5y6Z4KISzAD_-UGJek",
     tags: ["HTML5", "CSS", "Javascript"],
     category: "otros",
     github: "https://github.com/Cristian-Maxi/Encriptador",
@@ -576,7 +576,7 @@ export const projects = [
     description:
       "Un pequeño reloj digital echo con HTML5, CSS, Javascript y Bootsrap",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQF3_u0iUAu_XA/profile-treasury-image-shrink_800_800/0/1694247389469?e=1711576800&v=beta&t=Sdm7YcuAiCnaMZBSDdJGUUjDpD8If7NfPX6X-F3shw4",
+      "https://media.licdn.com/dms/image/D4D2DAQF3_u0iUAu_XA/profile-treasury-image-shrink_800_800/0/1694247389469?e=1712196000&v=beta&t=-YDFyHpFFGkD6r5Z1kBsHsER_KRQ0ZURbBsEVFU8sCk",
     tags: ["HTML5", "CSS", "Javascript", "Bootstap"],
     category: "otros",
     github: "https://github.com/Cristian-Maxi/Reloj-Digital",
