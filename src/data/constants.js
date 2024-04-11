@@ -590,6 +590,27 @@ export const projects = [
       },
     ],
   },
+    {
+    id: 8,
+    title: "Conversor de Mnedas",
+    date: "Abr 2024 - Abr 2024",
+    description:
+      "Conversor de Monedas para el Desafio Back-End de Oracle Alura Latam. Lo realicé aplicando React para el Front End y Spring para el manejo del Back End. Puede demorar un poco durante el primer uso debido al uso de un servidor de alojamiento gratuito.",
+    image:
+      "https://media.licdn.com/dms/image/D4E2DAQFfQ2B9JwDvHA/profile-treasury-image-shrink_1280_1280/0/1712813499342?e=1713420000&v=beta&t=wurCfuOvxBof8PYaWTPlEKStp2YzNpFJqWE65AXZHAQ",
+    tags: ["HTML5", "CSS", "Javascript", "Bootstap", "React.js", "Spring", "Tailwind"],
+    category: "otros",
+    github: "https://github.com/Cristian-Maxi/ConversorMonedasOracle/tree/main",
+    webapp: "https://conversor-monedas-oracle-2ekj-omega.vercel.app/",
+    member: [
+      {
+        name: "Cristian Gomez",
+        img: "https://avatars.githubusercontent.com/u/134754887?v=4",
+        linkedin: "https://www.linkedin.com/in/cristian-gomez-montenegro/",
+        github: "https://github.com/Cristian-Maxi",
+      },
+    ],
+  },
   
 ];
 
