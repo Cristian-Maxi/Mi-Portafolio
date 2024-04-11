@@ -592,7 +592,7 @@ export const projects = [
   },
     {
     id: 8,
-    title: "Conversor de Mnedas",
+    title: "Conversor de Monedas",
     date: "Abr 2024 - Abr 2024",
     description:
       "Conversor de Monedas para el Desafio Back-End de Oracle Alura Latam. Lo realicé aplicando React para el Front End y Spring para el manejo del Back End. Puede demorar un poco durante el primer uso debido al uso de un servidor de alojamiento gratuito.",
