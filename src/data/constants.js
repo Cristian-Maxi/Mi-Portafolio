@@ -294,7 +294,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQGv-Dd7A2pQ0g/company-logo_200_200/0/1646458289482?e=1712793600&v=beta&t=rFIh0SJm6Cv9vVC2ciT00quT_gNFCgrZWrk4qkl3CG0",
+    img: "https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/300846334_102048172639807_8682311619358098660_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGQBsOjGHFUOUg7oBDdUPqb3uJ2dAscExje4nZ0CxwTGJdZjwqsuoO9Nj3DP33EDa8&_nc_ohc=qDEQli3ZHQgAb66RHjk&_nc_ht=scontent.fsla4-1.fna&oh=00_AfA2gfVwFbWsomfhygLNE6mAVG6hzaU-6YCGcolbG2gW1Q&oe=662201B4",
     school: "Argentina Programa 4.0 FIUBA",
     date: "Abr 2023 - Oct 2023",
     desc: "Aptitudes: JavaScript · Django REST framework · GitHub · MySQL · Django · HTML5 · Bootstrap · Next.js · Python · Hojas de estilos en cascada (CSS) · Programación orientada a objetos (POO) · React.js",
