@@ -302,7 +302,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/C4D0BAQGw7rvFolzzeQ/company-logo_200_200/0/1631352709208?e=1713398400&v=beta&t=eU6PkurrDFsu39DlfkqwYIalURehH2KG1Nhq9G_wlRY",
+    img: "https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-1/313413081_499406172229361_5737860828285948291_n.png?stp=dst-png_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEseeWFKAQWBXy_49ocOBp_VTOex9quzWxVM57H2q7NbJ22UYq4QvAjRZB9nn4FPxo&_nc_ohc=28UF1EVkK_oAb5s3dW5&_nc_ht=scontent.fsla4-1.fna&oh=00_AfDjbhcw7BBD8B_WHTuV2KePAVW--zmPsO5jINi8DOdPQA&oe=66273145",
     school: "ITMaster Academy",
     date: "Jul 2023 - Dic 2023",
     desc: "Aptitudes: Cruds · NPM · JavaScript · Svelte · Babel.js · GitHub · Node.js · Angular · HTML5 · Bootstrap · Express.js · Firebase · Hojas de estilos en cascada (CSS) · Vue.js · React.js",
@@ -342,7 +342,7 @@ export const education = [
   },
   {
     id: 6,
-    img: "https://scontent.fsla4-1.fna.fbcdn.net/v/t1.18169-9/263296_10150275324557431_8380247_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=r8nriizd7CIAX9t8y9U&_nc_ht=scontent.fsla4-1.fna&oh=00_AfAZHitTVbGrTpTsK4DDBJTSIacpgewYrkCZ3iNfyqLAZQ&oe=66205C7C",
+    img: "https://scontent.fsla4-1.fna.fbcdn.net/v/t1.18169-9/263296_10150275324557431_8380247_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH20qsWA-OhsxYVoLtBLgCuHupYBkBTHa4e6lgGQFMdrm8d3uP1ytG8jr_2WVhXVcQ&_nc_ohc=XGTbgb9undUAb7CTiQU&_nc_ht=scontent.fsla4-1.fna&oh=00_AfAv9HbxkbFybxAsKzb3Gv3y4QLp2YIOalWAyn_EqWHTfA&oe=6648CA7C",
     school: "Centro Universitario de Idiomas",
     date: "Jul 2023 - Set 2023",
     desc: "Aprobó el Nivel 8 de Ingles General para Desarrolladores de Software del Centro Universitario de Idiomas, B1.2 del Marco Comun Europeo de Referencia para las Lenguas - MCR, dentro del plan Argentina Programa 4.0",
