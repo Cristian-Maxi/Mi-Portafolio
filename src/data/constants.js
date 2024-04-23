@@ -611,6 +611,27 @@ export const projects = [
       },
     ],
   },
+    {
+    id: 11,
+    title: "Crud-Empleados",
+    date: "Abr 2024 - Abr 2024",
+    description:
+      "Crud de Empleados realizado con React y Bootstrap en el Front End y Node-Express-MySQL en el Back End.",
+    image:
+      "https://media.licdn.com/dms/image/sync/D4D27AQEwrFB8Js-NMQ/articleshare-shrink_800/0/1713835833149?e=1714442400&v=beta&t=XaSyPhe663QrtU_WFfOSYrQBUx_hcQnan5IdONmdzbk",
+    tags: ["Javascript", "Bootstap", "React.js", "Node.js", "Express", "MySQL"],
+    category: "appweb",
+    github: "https://github.com/Cristian-Maxi/ConversorMonedasOracle/tree/main",
+    webapp: "https://www.youtube.com/watch?v=EnClXHyD0aQ",
+    member: [
+      {
+        name: "Cristian Gomez",
+        img: "https://avatars.githubusercontent.com/u/134754887?v=4",
+        linkedin: "https://www.linkedin.com/in/cristian-gomez-montenegro/",
+        github: "https://github.com/Cristian-Maxi/Crud-Empleados",
+      },
+    ],
+  },
   
 ];
 
