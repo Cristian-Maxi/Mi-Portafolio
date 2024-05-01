@@ -92,9 +92,9 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg",
       },
       {
-        name: "Maria DB",
+        name: "PostgreSQL",
         image:
-          "https://creazilla-store.fra1.digitaloceanspaces.com/icons/3247790/mariadb-icon-md.png",
+          "https://es.wikipedia.org/wiki/PostgreSQL#/media/Archivo:Postgresql_elephant.svg",
       },
       {
         name: "SQL Server",
