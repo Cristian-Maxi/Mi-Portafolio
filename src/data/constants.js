@@ -8,7 +8,7 @@ export const Bio = {
     "Soy una persona motivada y versátil, siempre dispuesta a enfrentar nuevos desafíos. Estoy dispuesto a ofrecer resultados de alta calidad, valiendome de una actitud positiva y una mentalidad de crecimiento, estoy listo para hacer una contribución significativa y lograr grandes cosas.",
   github: "https://github.com/Cristian-Maxi",
   resume:
-    "https://drive.google.com/file/d/1vN2kTekW_K2e1UrMiK_7idWr0zUzWSt9/view?usp=sharing",
+    "https://drive.google.com/file/d/1cmuNQ7-DBQWCoTiLkL1gTp2nxveioqE_/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/cristian-gomez-montenegro/",
   twitter: "https://twitter.com/CristianMaxi06",
   insta: "https://www.instagram.com/cristian_maxi_gomez/",
