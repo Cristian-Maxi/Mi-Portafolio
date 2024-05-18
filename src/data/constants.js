@@ -348,6 +348,14 @@ export const education = [
     desc: "Aprobó el Nivel 8 de Ingles General para Desarrolladores de Software del Centro Universitario de Idiomas, B1.2 del Marco Comun Europeo de Referencia para las Lenguas - MCR, dentro del plan Argentina Programa 4.0",
     degree: "Ingles B1.2",
   },
+  {
+    id: 7,
+    img: "https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/406628609_928201638670428_6451855948304853085_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGpF7k5W3ObbknqWHnaU_0YBkLibnXpKuwGQuJudekq7B5bHDc95J_1wOhcusFBPBQ&_nc_ohc=zoXMSA26180Q7kNvgEBizRV&_nc_ht=scontent.fsla4-1.fna&oh=00_AYCnhwY-H2kPm-LJlRI15KBQTRCeP6SSRvGy7SLgttmidA&oe=664DD5DF",
+    school: "Alura-Latam",
+    date: "Ene 2024 - Mayo 2024",
+    desc: "Aptitudes: Java · Java Servlet · Hibernate · Spring MVC · Spring · Spring Security · Spring Boot · JPA · MySQL · PostgreSQL · API de Postman · Desarrollo de API · Cruds",
+    degree: "Desarrollador Back End Java",
+  },
 ];
 
 export const projects = [
