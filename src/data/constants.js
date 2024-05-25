@@ -342,7 +342,7 @@ export const education = [
   },
   {
     id: 6,
-    img: "https://scontent.fsla4-1.fna.fbcdn.net/v/t1.18169-9/263296_10150275324557431_8380247_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH20qsWA-OhsxYVoLtBLgCuHupYBkBTHa4e6lgGQFMdrm8d3uP1ytG8jr_2WVhXVcQ&_nc_ohc=XGTbgb9undUAb7CTiQU&_nc_ht=scontent.fsla4-1.fna&oh=00_AfAv9HbxkbFybxAsKzb3Gv3y4QLp2YIOalWAyn_EqWHTfA&oe=6648CA7C",
+    img: "https://scontent.fsla4-1.fna.fbcdn.net/v/t1.18169-9/263296_10150275324557431_8380247_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH20qsWA-OhsxYVoLtBLgCuHupYBkBTHa4e6lgGQFMdrm8d3uP1ytG8jr_2WVhXVcQ&_nc_ohc=dr1aIlkkkzsQ7kNvgHZ9Gha&_nc_ht=scontent.fsla4-1.fna&oh=00_AYAbZ1nwjMiKFkoc1MlL_9fuXWVXHA_YiMFA5SBv7A_MCQ&oe=6678B0FC",
     school: "Centro Universitario de Idiomas",
     date: "Jul 2023 - Set 2023",
     desc: "Aprobó el Nivel 8 de Ingles General para Desarrolladores de Software del Centro Universitario de Idiomas, B1.2 del Marco Comun Europeo de Referencia para las Lenguas - MCR, dentro del plan Argentina Programa 4.0",
@@ -350,7 +350,7 @@ export const education = [
   },
   {
     id: 7,
-    img: "https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/406628609_928201638670428_6451855948304853085_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGpF7k5W3ObbknqWHnaU_0YBkLibnXpKuwGQuJudekq7B5bHDc95J_1wOhcusFBPBQ&_nc_ohc=zoXMSA26180Q7kNvgEBizRV&_nc_ht=scontent.fsla4-1.fna&oh=00_AYCnhwY-H2kPm-LJlRI15KBQTRCeP6SSRvGy7SLgttmidA&oe=664DD5DF",
+    img: "https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/406628609_928201638670428_6451855948304853085_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGpF7k5W3ObbknqWHnaU_0YBkLibnXpKuwGQuJudekq7B5bHDc95J_1wOhcusFBPBQ&_nc_ohc=yluFR96aYcwQ7kNvgEfwZ1w&_nc_ht=scontent.fsla4-1.fna&oh=00_AYD38ziW53-DnH1aMnh9FDkapc0f_X5sEmiYD9GLEt9I-A&oe=6657105F",
     school: "Alura-Latam",
     date: "Ene 2024 - Mayo 2024",
     desc: "Aptitudes: Java · Java Servlet · Hibernate · Spring MVC · Spring · Spring Security · Spring Boot · JPA · MySQL · PostgreSQL · API de Postman · Desarrollo de API · Cruds",
