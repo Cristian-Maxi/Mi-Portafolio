@@ -640,6 +640,27 @@ export const projects = [
       },
     ],
   },
+      {
+    id: 12,
+    title: "Codo a Codo - Movies",
+    date: "Ene 2024 - Feb 2024",
+    description:
+      "Integrador Final Front-End para el cursado de Codo a Codo 2024 - JAVA",
+    image:
+      "https://media.licdn.com/dms/image/D4E2DAQFn9rrMl24CBQ/profile-treasury-image-shrink_1280_1280/0/1716605124668?e=1717210800&v=beta&t=1L7syJrfqq2LVg2xRP0m8lNRNet3rZIwyxq5hoU_lEc",
+    tags: ["Javascript", "Bootstap", "HTML", "CSS"],
+    category: "appweb",
+    github: "https://github.com/Cristian-Maxi/CaC-Movies",
+    webapp: "https://cristian-maxi.github.io/CaC-Movies/",
+    member: [
+      {
+        name: "Cristian Gomez",
+        img: "https://avatars.githubusercontent.com/u/134754887?v=4",
+        linkedin: "https://www.linkedin.com/in/cristian-gomez-montenegro/",
+        github: "https://github.com/Cristian-Maxi/Crud-Empleados",
+      },
+    ],
+  },
   
 ];
 
