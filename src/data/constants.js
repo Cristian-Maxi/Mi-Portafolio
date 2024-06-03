@@ -350,7 +350,7 @@ export const education = [
   },
   {
     id: 7,
-    img: "https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/406628609_928201638670428_6451855948304853085_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGpF7k5W3ObbknqWHnaU_0YBkLibnXpKuwGQuJudekq7B5bHDc95J_1wOhcusFBPBQ&_nc_ohc=yluFR96aYcwQ7kNvgEfwZ1w&_nc_ht=scontent.fsla4-1.fna&oh=00_AYD38ziW53-DnH1aMnh9FDkapc0f_X5sEmiYD9GLEt9I-A&oe=6657105F",
+    img: "https://lh3.googleusercontent.com/d/1DNFoIwCeRBVnttVb0VQNfUxXcXHwppTa",
     school: "Alura-Latam",
     date: "Ene 2024 - Mayo 2024",
     desc: "Aptitudes: Java · Java Servlet · Hibernate · Spring MVC · Spring · Spring Security · Spring Boot · JPA · MySQL · PostgreSQL · API de Postman · Desarrollo de API · Cruds",
