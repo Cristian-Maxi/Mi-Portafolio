@@ -366,7 +366,7 @@ export const projects = [
     description:
       "Pagina Full Stack usando React para la parte Front End y Python, Django y MySQL para la parte Back End. El usuario podrá crear Post en la sección Blog de acuerdo a un sistema de autenticación el cual definirá su rol ya sea como editor o como un adminstrador.",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQFV-qCgOfq4Zg/profile-treasury-image-shrink_1280_1280/0/1704047844352?e=1716858000&v=beta&t=Ahuzmz8WzB3KyocBs-soH89xc1A3O1jwQse3kGcYlB8",
+      "https://lh3.googleusercontent.com/d/1F9G4hmc4l23QrhzXvMDEDc0spNVm0E9b",
     tags: [
       "Bootstrap",
       "React.js",
@@ -400,7 +400,7 @@ export const projects = [
     description:
       "Página echa como proyecto final del cursado de Codo a Codo. El Front End fue echo con HTML, CSS, Javascript y Bootstrap, y la parte Back End fue echa usando java, hibernate y MySQL.",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQH_w-8Z9A742A/profile-treasury-image-shrink_800_800/0/1695070505840?e=1716858000&v=beta&t=s2chdsL9idLA-Z_ysDw-UUu75cAAfzfO62vYKY5CZx4",
+      "https://lh3.googleusercontent.com/d/1Ht2IQoiyhTZguCvkoxVpM4AWysp7o9k5",
     tags: ["HTML5", "CSS", "Javascript", "Bootstrap", "MySQL", "Java", "JDBC", "Hibernate"],
     category: "appweb",
     github: "https://github.com/Cristian-Maxi/Proyecto-Final-Java",
@@ -421,7 +421,7 @@ export const projects = [
     description:
       "Página echa con HTML, CSS, Javascript y Bootstrap, simulando una página dedicada a la venta de una aplicación de trading de criptomnodas.",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQFZakjLHfHDJQ/profile-treasury-image-shrink_1280_1280/0/1704130751532?e=1716858000&v=beta&t=jNfoJvhbVq3X9gVdEG8Ko5Y9k0pGt3TGbHol2mnUZco",
+      "https://lh3.googleusercontent.com/d/17z8hRao_YXyJC9zPmd-xJzCeOrH1XxJz",
     tags: [
       "HTML5",
       "CSS",
@@ -448,7 +448,7 @@ export const projects = [
     description:
       "Página echa como proyecto final del cursado de Argentina Programa 4.0. La parte Front End fue echa Con Next.js y la parte Backend fue echa con Python, Django y MySQL. Consiste en un Login, en donde el usuario podrá ser redirigido para crear una cuenta o ingresar si ya la tiene, a una página donde el usuario puedo usar una app para guardar tareas.",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQEtZOgQRzE_pA/profile-treasury-image-shrink_1280_1280/0/1699910116684?e=1716858000&v=beta&t=S-EA_drvCUHIsafgVzpmm0ZLZO921QfITbrpv_kCUeU",
+      "https://lh3.googleusercontent.com/d/1Mwt5YKuTypEFvHZhLIsCv5oWJqs7FGu5",
       tags: [
         "Bootstrap",
         "Next.js",
@@ -479,7 +479,7 @@ export const projects = [
     description:
       "Pequeña aplicación de pronostico de pronostico del tiempo llevada a cabo usando React.js y una Api de pronosticos la cual nos devuelve los pronostico de las 3 horas siguientes.",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQGqWoSWQHl-fQ/profile-treasury-image-shrink_800_800/0/1701313761063?e=1716858000&v=beta&t=DVGyPq7RYJHgVK5w_Y93Y7Y8RGXbRwuLpV6X1A0t4Jg",
+      "https://lh3.googleusercontent.com/d/1YWbBYVrlTBL5I8jEm9tkQlS9oVVtsrYM",
     tags: ["HTML5","CSS","Javascript","React.js","Bootsrap", "Apis"],
     category: "appweb",
     github: "https://github.com/Cristian-Maxi/app-de-clima-react",
@@ -500,7 +500,7 @@ export const projects = [
     description:
       "Aplicacón para llevar una lista de presupuestos y hacer los calculos correspondientes a los Ingresos y Egresos que se llevan a cabo. Fue echa con HTML5, CSS, Javascript y Boostrap.",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQHQzLvWBRRuVw/profile-treasury-image-shrink_800_800/0/1694277724569?e=1716858000&v=beta&t=jKzLby2Y2Ns0Khk2Mrj4LVLL_10OABeWqylZs-e_aCU",
+      "https://lh3.googleusercontent.com/d/1Ap2Wv7_K15dRo03k2J93HMCuuTABKIva",
     tags: ["HTML5", "CSS", "Javascript", "Bootstap", "POO"],
     category: "appweb",
     github: "https://github.com/Cristian-Maxi/Aplicacion-Web-Presupuesto",
@@ -521,7 +521,7 @@ export const projects = [
     description:
       "Aplicación para llevar un control de los clientes y las compras que estos llevaron a cabo, asi tambien como el total de dinero que se recaudo con estas compras. Esta fue echa con HTML5, CSS, Javascript y Boostrap en la parte front end y Java, JDBC y MySQL para el Back End.",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQHEMEUuP71czg/profile-treasury-image-shrink_1280_1280/0/1699931215804?e=1716858000&v=beta&t=b1nT04OkBdmqivkpibYb-js0W3QYVduPdbMS14HMoIA",
+      "https://lh3.googleusercontent.com/d/1ebgrMFJi0_80pxk-4Q8fExxxJG_AFuRQ",
     tags: ["HTML5", "CSS", "Javascript", "Bootstap", "Java", "JDBC", "MySQL"],
     category: "appweb",
     github: "https://github.com/Cristian-Maxi/Java-Control-Clientes",
@@ -542,7 +542,7 @@ export const projects = [
     description:
       "Proyecto Final llevado a cabo para el cursado de Python en CIMNE-IBER, el cual consiste en una aplicación de destinos culinarios. Fue echa usnado Python y Tkinter",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQGNgRfGiZSYhg/profile-treasury-image-shrink_800_800/0/1704133815193?e=1716858000&v=beta&t=mrs_NC0J-VhGfuZjA4MZuLb5PgSYYR2w78RsVuv5148",
+      "https://lh3.googleusercontent.com/d/1X3O1YqFbdWModk98dsIliMU93nxgpySM",
     tags: ["Python", "Tkinter", "POO"],
     category: "otros",
     github: "https://github.com/Cristian-Maxi/Proyecto-Python-Destino-Culinario",
@@ -563,7 +563,7 @@ export const projects = [
     description:
       "Un encriptador de texto realizado durante el cursado de Oracle-Alura para el Desafio número 1",
     image:
-      "https://media.licdn.com/dms/image/D4D2DAQF1W1QYKE_s5w/profile-treasury-image-shrink_800_800/0/1706320568169?e=1716858000&v=beta&t=v_6zroUD7MfgZgp2clbMtxcAU6ipMmajy2pO2HWYftU",
+      "https://lh3.googleusercontent.com/d/1eqzEwk2ToWiLszpe1nWxuNWY9nGC3Sjw",
     tags: ["HTML5", "CSS", "Javascript"],
     category: "otros",
     github: "https://github.com/Cristian-Maxi/Encriptador",
@@ -605,7 +605,7 @@ export const projects = [
     description:
       "Conversor de Monedas para el Desafio Back-End de Oracle Alura Latam. Lo realicé aplicando React para el Front End y Spring para el manejo del Back End. Puede demorar un poco durante el primer uso debido al uso de un servidor de alojamiento gratuito.",
     image:
-      "https://media.licdn.com/dms/image/D4E2DAQFfQ2B9JwDvHA/profile-treasury-image-shrink_1280_1280/0/1712813499342?e=1716858000&v=beta&t=d1U4fF2kZ_keTmIPs1supS5CIVGcpkE8HR5zi3yTuB8",
+      "https://lh3.googleusercontent.com/d/1nL67J-2FnE4NafAj2UBG7rHexwzG9J2e",
     tags: ["HTML5", "CSS", "Javascript", "Bootstap", "React.js", "Spring", "Tailwind"],
     category: "otros",
     github: "https://github.com/Cristian-Maxi/ConversorMonedasOracle/tree/main",
@@ -626,7 +626,7 @@ export const projects = [
     description:
       "Crud de Empleados realizado con React y Bootstrap en el Front End y Node-Express-MySQL en el Back End.",
     image:
-      "https://media.licdn.com/dms/image/sync/D4D27AQEwrFB8Js-NMQ/articleshare-shrink_800/0/1713835833149?e=1716858000&v=beta&t=x4YaRCyr9QFwlyEyX3jg6w3-aeabLLeJWlrg5XETVJY",
+      "https://lh3.googleusercontent.com/d/1nJeh1scMopkGTDnkCBgLWVdGp8nzX03G",
     tags: ["Javascript", "Bootstap", "React.js", "Node.js", "Express", "MySQL"],
     category: "appweb",
     github: "https://github.com/Cristian-Maxi/ConversorMonedasOracle/tree/main",
