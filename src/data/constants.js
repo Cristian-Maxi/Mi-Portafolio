@@ -647,7 +647,7 @@ export const projects = [
     description:
       "Integrador Final Front-End para el cursado de Codo a Codo 2024 - JAVA",
     image:
-      "https://media.licdn.com/dms/image/D4E2DAQFn9rrMl24CBQ/profile-treasury-image-shrink_1280_1280/0/1716605124668?e=1717210800&v=beta&t=1L7syJrfqq2LVg2xRP0m8lNRNet3rZIwyxq5hoU_lEc",
+      "https://lh3.googleusercontent.com/d/1ko_BN1DpRdqNMNpHIyvPb3uotqtwh9TN",
     tags: ["Javascript", "Bootstap", "HTML", "CSS"],
     category: "appweb",
     github: "https://github.com/Cristian-Maxi/CaC-Movies",
