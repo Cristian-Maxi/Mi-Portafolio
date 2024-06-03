@@ -592,7 +592,7 @@ export const projects = [
     member: [
       {
         name: "Cristian Gomez",
-        img: "https://avatars.githubusercontent.com/u/134754887?v=4",
+        img: "https://drive.google.com/file/d/171v5JnnKUYxL6GsGk8LT-4IY4n5VaQrU/view?usp=sharing",
         linkedin: "https://www.linkedin.com/in/cristian-gomez-montenegro/",
         github: "https://github.com/Cristian-Maxi",
       },
