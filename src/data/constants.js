@@ -342,7 +342,7 @@ export const education = [
   },
   {
     id: 6,
-    img: "https://scontent.fsla4-1.fna.fbcdn.net/v/t1.18169-9/263296_10150275324557431_8380247_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH20qsWA-OhsxYVoLtBLgCuHupYBkBTHa4e6lgGQFMdrm8d3uP1ytG8jr_2WVhXVcQ&_nc_ohc=dr1aIlkkkzsQ7kNvgHZ9Gha&_nc_ht=scontent.fsla4-1.fna&oh=00_AYAbZ1nwjMiKFkoc1MlL_9fuXWVXHA_YiMFA5SBv7A_MCQ&oe=6678B0FC",
+    img: "https://lh3.googleusercontent.com/d/1YtGzxEXwvIOukDU6jzhF5LkzhqgiAs2o",
     school: "Centro Universitario de Idiomas",
     date: "Jul 2023 - Set 2023",
     desc: "Aprobó el Nivel 8 de Ingles General para Desarrolladores de Software del Centro Universitario de Idiomas, B1.2 del Marco Comun Europeo de Referencia para las Lenguas - MCR, dentro del plan Argentina Programa 4.0",
