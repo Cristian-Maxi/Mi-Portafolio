@@ -668,7 +668,7 @@ export const projects = [
     description:
       "Mi primera participación en No Country, en donde elabaramos un proyecto destinado a hospitales, que tiene como finalizad el facilitar los turnos entre los pacientes y sus médicos, en este caso psicologos. En esta ocasión trabajé como back end usando el stack java-spring-mysql y tambien me desenvolví como front end, ayudando a mis compañeros con la conexión del front y el back.",
     image:
-      "https://lh3.googleusercontent.com/d/1ko_BN1DpRdqNMNpHIyvPb3uotqtwh9TN",
+      "https://lh3.googleusercontent.com/d/18eqIEhMQlNv76-w_NcZaJ_7LXZVpV2L_",
     tags: ["Javascript", "Bootstap", "HTML", "CSS", "React.js", "Tailwind CSS", "Java", "Spring", "Postman", "MySQL", "Docker", "Vercel", "JavaScript", "Trello"],
     category: "appweb",
     github: "https://github.com/Cristian-Maxi/Health-Care",
