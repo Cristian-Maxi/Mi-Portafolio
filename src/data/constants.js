@@ -661,6 +661,27 @@ export const projects = [
       },
     ],
   },
+        {
+    id: 13,
+    title: "Health-Care",
+    date: "May 2024 - Jun 2024",
+    description:
+      "Mi primera participación en No Country, en donde elabaramos un proyecto destinado a hospitales, que tiene como finalizad el facilitar los turnos entre los pacientes y sus médicos, en este caso psicologos. En esta ocasión trabajé como back end usando el stack java-spring-mysql y tambien me desenvolví como front end, ayudando a mis compañeros con la conexión del front y el back.",
+    image:
+      "https://lh3.googleusercontent.com/d/1ko_BN1DpRdqNMNpHIyvPb3uotqtwh9TN",
+    tags: ["Javascript", "Bootstap", "HTML", "CSS", "React.js", "Tailwind CSS", "Java", "Spring", "Postman", "MySQL", "Docker", "Vercel", "JavaScript", "Trello"],
+    category: "appweb",
+    github: "https://github.com/Cristian-Maxi/Health-Care",
+    webapp: "https://github.com/Cristian-Maxi/Health-Care",
+    member: [
+      {
+        name: "Cristian Gomez",
+        img: "https://avatars.githubusercontent.com/u/134754887?v=4",
+        linkedin: "https://www.linkedin.com/in/cristian-gomez-montenegro/",
+        github: "https://github.com/Cristian-Maxi/Crud-Empleados",
+      },
+    ],
+  },
   
 ];
 
