@@ -710,7 +710,7 @@ export const projects = [
     description:
       "Mi tercera participación en No Country. En esta edición tuve la grand oportunidad de participar con un equipo de trabajo bastante solido y unido. Nuestro equipo contaba con 5 programadores back end, en donde me incluyo, 4 programadores front end, 2 diseñadoras UX/UI, 1 tester y una PM, la cual nos enseño a trabajar implementado la metodologia SCRUM, mantieniendo daylies y metas fijas para cada semana, como asi tambien implementamo TRELLO para organizar nuestra tareas y actividades. Fue una gran experiencia el trabajar de esta forma. En cuanto al proyecto, en esta ocasión nos comprometimos en desarrollar una herramienta que proporcione información de las diferentes actividades escolares para que pueda ser manejada de forma intuitiva tanto por los padres/tutores como por el personal educativo.",
     image:
-      "https://lh3.googleusercontent.com/d/15KiEn8CQObmBDVWLQmh1_2s7FU3ekFSm",
+      "https://lh3.googleusercontent.com/d/1OBVC1MLQvGetgseytPSxFsUlUvAzV_qh",
     tags: ["Javascript", "HTML", "CSS", "Angular", "TypeScript", "Tailwind CSS", "Java", "Spring", "Postman", "MySQL", "Docker", "JavaScript", "Trello", "Swagger", "MapSruct", "SCRUM"],
     category: "appweb",
     github: "https://github.com/No-Country-simulation/s17-10-n-java-angular/tree/main",
