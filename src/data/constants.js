@@ -592,7 +592,7 @@ export const projects = [
     member: [
       {
         name: "Cristian Gomez",
-        img: "https://drive.google.com/file/d/171v5JnnKUYxL6GsGk8LT-4IY4n5VaQrU/view?usp=sharing",
+        img: "https://avatars.githubusercontent.com/u/134754887?v=4",
         linkedin: "https://www.linkedin.com/in/cristian-gomez-montenegro/",
         github: "https://github.com/Cristian-Maxi",
       },
@@ -669,7 +669,7 @@ export const projects = [
       "Mi primera participación en No Country, en donde elabaramos un proyecto destinado a hospitales, que tiene como finalizad el facilitar los turnos entre los pacientes y sus médicos, en este caso psicologos. En esta ocasión trabajé como back end usando el stack java-spring-mysql y tambien me desenvolví como front end, ayudando a mis compañeros con la conexión del front y el back.",
     image:
       "https://lh3.googleusercontent.com/d/18eqIEhMQlNv76-w_NcZaJ_7LXZVpV2L_",
-    tags: ["Javascript", "HTML", "CSS", "React.js", "Tailwind CSS", "Java", "Spring", "Postman", "MySQL", "Docker", "Vercel", "Trello", "Figma", "Swagger"],
+    tags: ["Javascript", "HTML", "CSS", "React.js", "Tailwind CSS", "Java", "Spring", "Postman", "MySQL", "Docker", "Vercel", "Trello", "Figma", "Swagger", "GIT"],
     category: "appweb",
     github: "https://github.com/Cristian-Maxi/Health-Care",
     webapp: "https://github.com/Cristian-Maxi/Health-Care",
@@ -690,7 +690,7 @@ export const projects = [
       "Mi segunda participación en No Country, en donde pude trabajar junto a otros 5 compañeros de back end, 2 compañeros de front end y 1 diseñadora. En ésta oportunidad, hicimos un proyecto destinado a los refugios y adopción de mascotas. En ésta app, una persona podia ingresar con el fin de las mascotas que nuestros refugios tenian disponibles para adopción, facilitando de esta manera el proceso de adopción tanto para el interesado como para los refugios. En este proyecto me desenvolví como programador back end.",
     image:
       "https://lh3.googleusercontent.com/d/15KiEn8CQObmBDVWLQmh1_2s7FU3ekFSm",
-    tags: ["Javascript", "HTML", "CSS", "React.js", "Tailwind CSS", "Java", "Spring", "Postman", "ModelMapper", "PostreeSQL", "Docker", "Vercel", "Trello", "Figma", "Swagger"],
+    tags: ["Javascript", "HTML", "CSS", "React.js", "Tailwind CSS", "Java", "Spring", "Postman", "ModelMapper", "PostreeSQL", "Docker", "Vercel", "Trello", "Figma", "Swagger", "GIT"],
     category: "appweb",
     github: "https://github.com/No-Country-simulation/s16-02-ft-java-react/tree/main",
     webapp: "https://petconnect-nocountry.vercel.app/",
@@ -711,7 +711,7 @@ export const projects = [
       "Mi tercera participación en No Country. En esta edición tuve la grand oportunidad de participar con un equipo de trabajo bastante solido y unido. Nuestro equipo contaba con 5 programadores back end, en donde me incluyo, 4 programadores front end, 2 diseñadoras UX/UI, 1 tester y una PM, la cual nos enseño a trabajar implementado la metodologia SCRUM, mantieniendo daylies y metas fijas para cada semana, como asi tambien implementamo TRELLO para organizar nuestra tareas y actividades. Fue una gran experiencia el trabajar de esta forma. En cuanto al proyecto, en esta ocasión nos comprometimos en desarrollar una herramienta que proporcione información de las diferentes actividades escolares para que pueda ser manejada de forma intuitiva tanto por los padres/tutores como por el personal educativo.",
     image:
       "https://lh3.googleusercontent.com/d/1OBVC1MLQvGetgseytPSxFsUlUvAzV_qh",
-    tags: ["Javascript", "HTML", "CSS", "Angular", "TypeScript", "Tailwind CSS", "Java", "Spring", "Postman", "MySQL", "Docker", "JavaScript", "Trello", "Swagger", "MapSruct", "SCRUM"],
+    tags: ["Javascript", "HTML", "CSS", "Angular", "TypeScript", "Tailwind CSS", "Java", "Spring", "Postman", "MySQL", "Docker", "JavaScript", "Trello", "Swagger", "MapSruct", "SCRUM", "GIT"],
     category: "appweb",
     github: "https://github.com/No-Country-simulation/s17-10-n-java-angular/tree/main",
     webapp: "https://test.zilibro.com/",
