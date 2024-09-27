@@ -724,6 +724,27 @@ export const projects = [
       },
     ],
   },
+      {
+    id: 16,
+    title: "Cilsa Eccomerce",
+    date: "Sept 2024 - Oct 2024",
+    description:
+      "Este proyecto se hizo como parte de la Beca de Programador Full Stack otorgada por 'CILSA - ONG por la Inclusión'. La aplicación consiste en una web destinada a la compra de productos electronicos 'gamers', creada usando HTML, CSS, Javascript y Bootstrap por ahora. Continuaremos expandiendo este proyecto constantemente con la finalidad de crear un proyecto Full Stack.",
+    image:
+      "https://lh3.googleusercontent.com/d/1L84S3UcpoC8sjoIFkIS8xpzmZMb4QWq_",
+    tags: ["Javascript", "HTML", "CSS", "Bootstrap", "GIT", "Git-Hub", "Trello"],
+    category: "appweb",
+    github: "https://github.com/Cristian-Maxi/CILSA-Eccomerce",
+    webapp: "https://cristian-maxi.github.io/CILSA-Eccomerce/",
+    member: [
+      {
+        name: "Cristian Gomez",
+        img: "https://avatars.githubusercontent.com/u/134754887?v=4",
+        linkedin: "https://www.linkedin.com/in/cristian-gomez-montenegro/",
+        github: "https://github.com/Cristian-Maxi",
+      },
+    ],
+  },
   
 ];
 
