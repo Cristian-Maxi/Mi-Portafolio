@@ -11,6 +11,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Education from "./components/Education";
 import ProjectDetails from "./components/ProjectDetails";
+import Experience from "./components/Experience"
 import styled from "styled-components";
 
 const Body = styled.div`
@@ -68,6 +69,7 @@ function App() {
           <Wrapper>
             <Skills />
           </Wrapper>
+          <Experience/>
           <Projects openModal={openModal} setOpenModal={setOpenModal} />
           <Wrapper>
             <Education />
