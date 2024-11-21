@@ -275,7 +275,7 @@ export const experiences = [
   {
     id: 3,
     img: "https://lh3.googleusercontent.com/d/1J6nJMYziTVwdAGSKKK_FevsTxbEmX9uM",
-    role: "Full Stack Developer",
+    role: "Back End Developer",
     company: "Hackaton Waki 2° Puesto",
     date: "Oct 2024 - Nov 2024",
     desc: "Fui uno de los 45 elegidos entre muchos, para formar 1 de los 5 equipos con el fin de participar en el Hackaton de No country para una empresa “WAKI”, en donde realizamos una App de futbol con la implementación de un sistema de apuestas en tiempo real en donde se pueden hacer preddiciones y ganar tokens de acuerdo a los resultados de los partidos y rendimientos de los jugadores. En esta ocasión trabajé como Back end junto a 1 PM, 1 BackEnd, 2 Front End, 2 UX/UI, 1 QA, 1 TL y 1 Product Owner.",
@@ -762,7 +762,7 @@ export const projects = [
     description:
       "Waki es una plataforma orientada a los fanáticos del fútbol, diseñada para que los usuarios participen en una experiencia de predicciones deportivas, acumulen puntos y tengan la oportunidad de ganar premios y tokens.",
     image:
-      "https://lh3.googleusercontent.com/d/1YUn16ZUClDeonf7SaO65pqHVT5hWqCGr",
+      "https://lh3.googleusercontent.com/d/17Sp_03iIyXz26ZrTihTPRk-hHTvQ5rJH",
     tags: ["React.js","Java","Spring","Spring Security", "MySQL", "Vercel", "HTML5", "CSS","JavaScript","API de Postman", "Manejos de APIS","Figma", "Swagger","Render","Tailwind","GitHub","Git"],
     category: "appweb",
     github: "https://github.com/No-Country-simulation/h2-02-ft-java-react/tree/main",
@@ -776,19 +776,19 @@ export const projects = [
       },
       {
         name: "Nahuel Rocha",
-        img: "https://avatars.githubusercontent.com/u/134754887?v=4",
+        img: "https://avatars.githubusercontent.com/u/122326935?v=4",
         linkedin: "https://www.linkedin.com/in/rocha-nahuel/",
         github: "https://github.com/NahuelRocha",
       },
       {
         name: "Marcos Travaglini",
-        img: "https://avatars.githubusercontent.com/u/134754887?v=4",
+        img: "https://avatars.githubusercontent.com/u/70725851?v=4",
         linkedin: "https://www.linkedin.com/in/marcos-travaglini/",
         github: "https://github.com/Blackpachamame",
       },
       {
         name: "Jhonny Rosero",
-        img: "https://avatars.githubusercontent.com/u/134754887?v=4",
+        img: "https://avatars.githubusercontent.com/u/72477825?v=4",
         linkedin: "https://www.linkedin.com/in/mateok13/",
         github: "https://github.com/mateok13",
       }
