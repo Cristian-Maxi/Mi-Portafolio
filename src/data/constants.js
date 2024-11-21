@@ -276,9 +276,9 @@ export const experiences = [
     id: 3,
     img: "https://lh3.googleusercontent.com/d/1J6nJMYziTVwdAGSKKK_FevsTxbEmX9uM",
     role: "Full Stack Developer",
-    company: "No Country Hackaton",
-    date: "Oct 204 - Present",
-    desc: " Actualmente fui uno de los 45 elegidos entre muchos, para formar 1 de los 5 equipos con el fin de participar en el Hackaton de No country para una empresa real “WAKI”, en donde debemos realizar una App de futbol con la implementación de un sistema de apuestas en tiempo real en donde se podran hacer preddiciones y ganar tokens de acuerdo a los resultados de los partidos y rendimientos de los jugadores. En esta ocasión estoy trabajando como Full Stack junto a 1 PM, 1 BackEnd, 2 Front End, 2 UX/UI, 1 QA, 1 TL y 1 Product Owner.",
+    company: "Hackaton Waki 2° Puesto",
+    date: "Oct 2024 - Nov 2024",
+    desc: "Fui uno de los 45 elegidos entre muchos, para formar 1 de los 5 equipos con el fin de participar en el Hackaton de No country para una empresa “WAKI”, en donde realizamos una App de futbol con la implementación de un sistema de apuestas en tiempo real en donde se pueden hacer preddiciones y ganar tokens de acuerdo a los resultados de los partidos y rendimientos de los jugadores. En esta ocasión trabajé como Back end junto a 1 PM, 1 BackEnd, 2 Front End, 2 UX/UI, 1 QA, 1 TL y 1 Product Owner.",
     skills: [
       "React.js",
       "Java",
@@ -718,10 +718,10 @@ export const projects = [
     title: "ForEdu",
     date: "Ago 2024 - Sept 2024",
     description:
-      "Mi tercera participación en No Country. En esta edición tuve la grand oportunidad de participar con un equipo de trabajo bastante solido y unido. Nuestro equipo contaba con 5 programadores back end, en donde me incluyo, 4 programadores front end, 2 diseñadoras UX/UI, 1 tester y una PM, la cual nos enseño a trabajar implementado la metodologia SCRUM, mantieniendo daylies y metas fijas para cada semana, como asi tambien implementamo TRELLO para organizar nuestra tareas y actividades. Fue una gran experiencia el trabajar de esta forma. En cuanto al proyecto, en esta ocasión nos comprometimos en desarrollar una herramienta que proporcione información de las diferentes actividades escolares para que pueda ser manejada de forma intuitiva tanto por los padres/tutores como por el personal educativo.",
+      "Mi tercera participación en No Country. En esta edición tuve la gran oportunidad de participar con un equipo de trabajo bastante solido y unido. Nuestro equipo contaba con 5 programadores back end, en donde me incluyo, 4 programadores front end, 2 diseñadoras UX/UI, 1 tester y una PM, la cual nos enseño a trabajar implementado la metodologia SCRUM, mantieniendo daylies y metas fijas para cada semana, como asi tambien implementamo TRELLO para organizar nuestra tareas y actividades. Fue una gran experiencia el trabajar de esta forma. En cuanto al proyecto, en esta ocasión nos comprometimos en desarrollar una herramienta que proporcione información de las diferentes actividades escolares para que pueda ser manejada de forma intuitiva tanto por los padres/tutores como por el personal educativo.",
     image:
       "https://lh3.googleusercontent.com/d/1OBVC1MLQvGetgseytPSxFsUlUvAzV_qh",
-    tags: ["Javascript", "HTML", "CSS", "Angular", "TypeScript", "Tailwind CSS", "Java", "Spring", "Postman", "MySQL", "Docker", "JavaScript", "Trello", "Swagger", "MapSruct", "SCRUM", "GIT"],
+    tags: ["Javascript", "HTML", "CSS", "Angular", "TypeScript", "Tailwind CSS", "Java", "Spring", , "Postman", "MySQL", "Docker", "JavaScript", "Trello", "Swagger", "MapSruct", "SCRUM", "GIT"],
     category: "appweb",
     github: "https://github.com/No-Country-simulation/s17-10-n-java-angular/tree/main",
     webapp: "https://test.zilibro.com/",
@@ -753,6 +753,45 @@ export const projects = [
         linkedin: "https://www.linkedin.com/in/cristian-gomez-montenegro/",
         github: "https://github.com/Cristian-Maxi",
       },
+    ],
+  },
+  {
+    id: 17,
+    title: "Hackaton WAKI",
+    date: "Sept 2024 - Oct 2024",
+    description:
+      "Waki es una plataforma orientada a los fanáticos del fútbol, diseñada para que los usuarios participen en una experiencia de predicciones deportivas, acumulen puntos y tengan la oportunidad de ganar premios y tokens.",
+    image:
+      "https://lh3.googleusercontent.com/d/1YUn16ZUClDeonf7SaO65pqHVT5hWqCGr",
+    tags: ["React.js","Java","Spring","Spring Security", "MySQL", "Vercel", "HTML5", "CSS","JavaScript","API de Postman", "Manejos de APIS","Figma", "Swagger","Render","Tailwind","GitHub","Git"],
+    category: "appweb",
+    github: "https://github.com/No-Country-simulation/h2-02-ft-java-react/tree/main",
+    webapp: "https://www.youtube.com/watch?v=HcOgbXkLETA",
+    member: [
+      {
+        name: "Cristian Gomez",
+        img: "https://avatars.githubusercontent.com/u/134754887?v=4",
+        linkedin: "https://www.linkedin.com/in/cristian-gomez-montenegro/",
+        github: "https://github.com/Cristian-Maxi",
+      },
+      {
+        name: "Nahuel Rocha",
+        img: "https://avatars.githubusercontent.com/u/134754887?v=4",
+        linkedin: "https://www.linkedin.com/in/rocha-nahuel/",
+        github: "https://github.com/NahuelRocha",
+      },
+      {
+        name: "Marcos Travaglini",
+        img: "https://avatars.githubusercontent.com/u/134754887?v=4",
+        linkedin: "https://www.linkedin.com/in/marcos-travaglini/",
+        github: "https://github.com/Blackpachamame",
+      },
+      {
+        name: "Jhonny Rosero",
+        img: "https://avatars.githubusercontent.com/u/134754887?v=4",
+        linkedin: "https://www.linkedin.com/in/mateok13/",
+        github: "https://github.com/mateok13",
+      }
     ],
   },
   
