@@ -305,7 +305,7 @@ export const experiences = [
     role: "Full Stack Developer",
     company: "Hackaton Open Lab",
     date: "Nov 2024 - Dic 2024",
-    desc: "Actualmente participo de un proyecto como progrmador Full Stack para Openlab. El proyecto consiste en una plataforma en la que las personas ayudan a crear startups de manera colaborativa, y que se conviertan en co-propietarios de los proyectos a través de tokens enlazados a la propiedad intelectual, y que opera como un fondo de inversión descentralizado gestionado bajo un protocolo que promueve la transparencia, la meritocracia y la gestión de riesgos.",
+    desc: "Actualmente participo de un proyecto como programador Full Stack para Open-Lab. El proyecto consiste en una plataforma en la que las personas ayudan a crear startups de manera colaborativa, y que se conviertan en co-propietarios de los proyectos a través de tokens enlazados a la propiedad intelectual, y que opera como un fondo de inversión descentralizado gestionado bajo un protocolo que promueve la transparencia, la meritocracia y la gestión de riesgos.",
     skills: [
       "React.js",
       "Java",
