@@ -298,6 +298,34 @@ export const experiences = [
       "GitHub",
       "Git"
     ],
+  },
+  {
+    id: 4,
+    img: "https://lh3.googleusercontent.com/d/1J6nJMYziTVwdAGSKKK_FevsTxbEmX9uM",
+    role: "Full Stack Developer",
+    company: "Hackaton Open Lab",
+    date: "Nov 2024 - Dic 2024",
+    desc: "Actualmente participo de un proyecto como progrmador Full Stack para Openlab. El proyecto consiste en una plataforma en la que las personas ayudan a crear startups de manera colaborativa, y que se conviertan en co-propietarios de los proyectos a través de tokens enlazados a la propiedad intelectual, y que opera como un fondo de inversión descentralizado gestionado bajo un protocolo que promueve la transparencia, la meritocracia y la gestión de riesgos.",
+    skills: [
+      "React.js",
+      "Java",
+      "Spring",
+      "Spring Security",
+      "MySQL",
+      "Vercel",
+      "HTML5", 
+      "CSS",
+      "JavaScript",
+      "API de Postman",
+      "Manejo de APIS",
+      "Figma",
+      "Swagger",
+      "Render",
+      "Tailwind",
+      "GitHub",
+      "Git",
+      "Auth0"
+    ],
   }
 ];
 
