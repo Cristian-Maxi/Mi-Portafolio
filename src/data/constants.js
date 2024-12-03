@@ -123,9 +123,9 @@ export const skills = [
           "https://iconape.com/wp-content/png_logo_vector/git-icon.png",
       },
       {
-        name: "Netlify",
+        name: "Docker",
         image:
-          "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+          "https://lh3.googleusercontent.com/d/1Te-yc54N-ukn0QTYWZ3dBduMVQ7Pvaxf",
       },
       {
         name: "VS Code",
