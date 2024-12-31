@@ -69,7 +69,7 @@ export const skills = [
       },
       {
         name: "Django",
-        image:"https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png"
+        image:"https://images.seeklogo.com/logo-png/39/1/django-logo-png_seeklogo-394570.png?v=1957190461218610520"
       },
       {
         name: "Python",
