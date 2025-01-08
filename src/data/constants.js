@@ -302,7 +302,7 @@ export const experiences = [
   },
   {
     id: 4,
-    img: "https://lh3.googleusercontent.com/d/1yd4rDA_FhpN1SDirp8lN0fgP-VMkW6HS",
+    img: "https://lh3.googleusercontent.com/d/1J6nJMYziTVwdAGSKKK_FevsTxbEmX9uM",
     role: "Full Stack Developer",
     company: "Hackaton Open Lab 1° Puesto",
     date: "Nov 2024 - Dic 2024",
@@ -329,6 +329,7 @@ export const experiences = [
       "Docker",
       "Auth0"
     ],
+    doc: "https://lh3.googleusercontent.com/d/1yd4rDA_FhpN1SDirp8lN0fgP-VMkW6HS",
   }
 ];
 
