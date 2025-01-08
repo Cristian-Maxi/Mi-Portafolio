@@ -302,13 +302,14 @@ export const experiences = [
   },
   {
     id: 4,
-    img: "https://lh3.googleusercontent.com/d/1J6nJMYziTVwdAGSKKK_FevsTxbEmX9uM",
+    img: "https://lh3.googleusercontent.com/d/1yd4rDA_FhpN1SDirp8lN0fgP-VMkW6HS",
     role: "Full Stack Developer",
-    company: "Hackaton Open Lab",
+    company: "Hackaton Open Lab 1° Puesto",
     date: "Nov 2024 - Dic 2024",
-    desc: "Actualmente participo de un proyecto como programador Full Stack para Open-Lab. El proyecto consiste en una plataforma en la que las personas ayudan a crear startups de manera colaborativa, y que se conviertan en co-propietarios de los proyectos a través de tokens enlazados a la propiedad intelectual, y que opera como un fondo de inversión descentralizado gestionado bajo un protocolo que promueve la transparencia, la meritocracia y la gestión de riesgos.",
+    desc: "Mi equipo resultó ganador del Hackaton de OpenLab en donde me desenvolví com Back End y brinde apoyo al Front. El proyecto consistía en una plataforma en la que las personas ayudan a crear startups de manera colaborativa, y que se conviertan en co-propietarios de los proyectos a través de tokens enlazados a la propiedad intelectual, y que opera como un fondo de inversión descentralizado gestionado bajo un protocolo que promueve la transparencia, la meritocracia y la gestión de riesgos.",
     skills: [
       "React.js",
+      "Redux",
       "Java",
       "Spring",
       "Spring Security",
@@ -325,6 +326,7 @@ export const experiences = [
       "Tailwind",
       "GitHub",
       "Git",
+      "Docker",
       "Auth0"
     ],
   }
