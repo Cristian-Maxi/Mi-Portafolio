@@ -398,6 +398,14 @@ export const education = [
     desc: "Aptitudes: Java · Java Servlet · Hibernate · Spring MVC · Spring · Spring Security · Spring Boot · JPA · MySQL · PostgreSQL · API de Postman · Desarrollo de API · Cruds",
     degree: "Desarrollador Back End Java",
   },
+  {
+    id: 8,
+    img: "https://lh3.googleusercontent.com/d/1I0r0a3mg9DuVs02uKbYPTxhV_NCwA-Ya",
+    school: "Cilsa ONG",
+    date: "Oct 2024 - Dic 2024",
+    desc: "Aptitudes: HTML5 · Hojas de estilos en cascada (CSS) · JavaScript · Node.js · Express.js · React · Bootstrap · MongoDB · MySQL",
+    degree: "Full Stack Developer",
+  }
 ];
 
 export const projects = [
