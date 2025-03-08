@@ -405,7 +405,16 @@ export const education = [
     date: "Oct 2024 - Dic 2024",
     desc: "Aptitudes: HTML5 · Hojas de estilos en cascada (CSS) · JavaScript · Node.js · Express.js · React · Bootstrap · MongoDB · MySQL",
     degree: "Full Stack Developer",
-  }
+  },
+  {
+    id: 9,
+    img: "https://lh3.googleusercontent.com/d/1JoD2b_aV2TBKDdiJJ3vwlZt8kFWH_IFA",
+    school: "Bootcamp Java MindHub/Accenture",
+    date: "Ene 2025 - Ene 2025",
+    desc: "Aptitudes: Java 17 · Spring Boot · Spring Security · JSON Web Token · H2 · JUnit · Mockito · Microservicios · Rest Template · JPA · RabbitMQ · Swagger · Postman",
+    degree: "Java Developer",
+  },
+
 ];
 
 export const projects = [
